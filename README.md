@@ -7,7 +7,7 @@
   
 <h2> 📄 Certifications</h2>
 
-- [Program Certificate for Cybersecurity Professional Bootcamp] (https://certificates.nexus.engin.umich.edu/00d5c371-5a96-45d6-ac0f-a2d36418d639)
+- Program Certificate for Cybersecurity Professional Bootcamp (https://certificates.nexus.engin.umich.edu/00d5c371-5a96-45d6-ac0f-a2d36418d639)
 
 <h2> 🤳 Connect with me:</h2>
 
